@@ -1,5 +1,5 @@
 # Full-stach Challenge 
 
 ## Frameworks selected
-Backend: Node + Express
+Backend: Node + Express.\
 FrontEnd: React
